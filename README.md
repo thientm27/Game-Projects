@@ -13,7 +13,6 @@
 (3 Jul 2023 - 28 Jul 2023)
 
 **1. Description**
-- Description
 - Hyper casual game, analyze, build and develop games, easy to create new map with scriptable object and prefabs
 - The game contain 3 mode: Spot differences between two images / Find hidden object in a image / Solve puzzle between two image
 
@@ -37,7 +36,7 @@ https://play.google.com/store/apps/details?id=game.onechain.findout
 (25 May 2023 - 23 Jun 2023)
 
 **1. Description**
--Hyper casual game, analyze, build and develop games
+- Hyper casual game, analyze, build and develop games
 - A little bird will continuously fly from left to right and pass through the loops in a downward direction. The game will be lost if it goes from bottom to top or hits the ceiling and floor of the game scene
 - The skin system is unlocked based on achievements attained with various conditions.
 
