@@ -11,10 +11,15 @@
 - Firebase , Unity 2D, Applovin, Google Ads, IAP, Appsflyer
 
 **3. Preview Screenshot**
-  <img src="https://github.com/thientm27/Project-Captures/blob/main/Find%20Out%20Spot%20Differences/main-menu.png" alt="Home 1" width="45%"></img> &nbsp;&nbsp; 
-  <img src="https://github.com/thientm27/Project-Captures/blob/main/Find%20Out%20Spot%20Differences/gameplay1.png" alt="Search Page" width="45%"></img> &nbsp;&nbsp; 
-  <img src="https://github.com/thientm27/Project-Captures/blob/main/Find%20Out%20Spot%20Differences/gameplay2.png" alt="Admin Post List" width="45%"></img> &nbsp;&nbsp;
-  <img src="https://github.com/thientm27/Project-Captures/blob/main/Find%20Out%20Spot%20Differences/gameplay3.png" alt="Checkout" width="45%"></img> &nbsp;&nbsp;
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/thientm27/Project-Captures/blob/main/Find%20Out%20Spot%20Differences/main-menu.png" alt="Home 1" width="45%"></img>
+  <img src="https://github.com/thientm27/Project-Captures/blob/main/Find%20Out%20Spot%20Differences/gameplay1.png" alt="Search Page" width="45%"></img>
+</div>
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/thientm27/Project-Captures/blob/main/Find%20Out%20Spot%20Differences/gameplay2.png" alt="Admin Post List" width="45%"></img>
+  <img src="https://github.com/thientm27/Project-Captures/blob/main/Find%20Out%20Spot%20Differences/gameplay3.png" alt="Checkout" width="45%"></img>
+</div>
+
 **4. Game URL**
 https://play.google.com/store/apps/details?id=game.onechain.findout
 
