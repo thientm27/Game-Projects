@@ -2,6 +2,7 @@
 <h3 align="center">Project</h3>
 ## Find Out: Spot Differences
 (3 Jul 2023 - 28 Jul 2023)
+
 **1. Description**
 - Description
 - Hyper casual game, analyze, build and develop games, easy to create new map with scriptable object and prefabs
@@ -25,6 +26,7 @@ https://play.google.com/store/apps/details?id=game.onechain.findout
 
 ## Bird Dunk
 (25 May 2023 - 23 Jun 2023)
+
 **1. Description**
 -Hyper casual game, analyze, build and develop games
 - A little bird will continuously fly from left to right and pass through the loops in a downward direction. The game will be lost if it goes from bottom to top or hits the ceiling and floor of the game scene
@@ -48,6 +50,7 @@ https://play.google.com/store/apps/details?id=game.onechain.birddunk&hl=en_US
 
 ## Caro game
 (2 Feb 2023 - 25 May 2023)
+
 **1. Description**
 - Casual game, analyze, build and develop client for online game
 - Design an algorithm for a Gomoku game with multiple board sizes and different winning conditions
@@ -69,6 +72,7 @@ https://play.google.com/store/apps/details?id=game.onechain.birddunk&hl=en_US
 
 ## 2 Player Games: Dog Cat Battle
 (28 Dec 2022 - 9 Mar 2023)
+
 **1. Description**
 - Casual game, team project with 5 developer
 - Two player one device game
