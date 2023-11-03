@@ -3,13 +3,13 @@
 
 ## Table of Contents
 
-- [Find Out: Spot Differences](#Find-Out:-Spot-Differences)
+- [Find Out: Spot Differences](#Find-Out-Spot-Differences)
 - [Bird Dunk](#bird-dunk)
 - [Caro game](#Caro-game)
-- [2 Player Games: Dog Cat Battle](#2-Player-Games:-Dog-Cat-Battle)
+- [2 Player Games: Dog Cat Battle](#2-Player-Games-Dog-Cat-Battle)
 
 
-## Find Out: Spot Differences
+## Find Out Spot Differences
 (3 Jul 2023 - 28 Jul 2023)
 
 **1. Description**
@@ -79,7 +79,7 @@ https://play.google.com/store/apps/details?id=game.onechain.birddunk&hl=en_US
   <img src="https://github.com/thientm27/Project-Captures/blob/main/Caro%20game/ingame.png"  width="45%"></img>
 </div>
 
-## 2 Player Games: Dog Cat Battle
+## 2 Player Games Dog Cat Battle
 (28 Dec 2022 - 9 Mar 2023)
 
 **1. Description**
