@@ -1,6 +1,8 @@
 
 <h3 align="center">Project</h3>
+
 ## Table of Contents
+
 - [Find Out: Spot Differences](#Find-Out:-Spot-Differences)
 - [Bird Dunk](#bird-dunk)
 - [Caro game](#Caro-game)
