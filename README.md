@@ -1,5 +1,11 @@
 
 <h3 align="center">Project</h3>
+## Table of Contents
+- [Find Out: Spot Differences](#Find-Out:-Spot-Differences)
+- [Bird Dunk](#bird-dunk)
+- [Caro game](#Caro-game)
+- [2 Player Games: Dog Cat Battle](#2-Player-Games:-Dog-Cat-Battle)
+
 
 ## Find Out: Spot Differences
 (3 Jul 2023 - 28 Jul 2023)
