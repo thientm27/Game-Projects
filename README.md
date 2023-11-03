@@ -1,7 +1,8 @@
 
 <h3 align="center">Project</h3>
 ## Find Out: Spot Differences
-(3 Jul 2023 - 28 Jul 2023)
+
+- (3 Jul 2023 - 28 Jul 2023)
 
 **1. Description**
 - Description
